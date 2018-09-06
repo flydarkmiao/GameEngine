@@ -117,10 +117,12 @@
   <ItemGroup>
     <ClCompile Include="BaseApplication.cpp" />
     <ClCompile Include="EmptyApplication.cpp" />
+    <ClCompile Include="GraphicsManager.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseApplication.hpp" />
+    <ClInclude Include="GraphicsManager.hpp" />
     <ClInclude Include="IApplication.hpp" />
     <ClInclude Include="Interface.hpp" />
     <ClInclude Include="IRuntimeModule.hpp" />

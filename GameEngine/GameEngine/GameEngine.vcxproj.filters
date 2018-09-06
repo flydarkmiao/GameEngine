@@ -24,6 +24,9 @@
     <ClCompile Include="EmptyApplication.cpp">
       <Filter>Empty</Filter>
     </ClCompile>
+    <ClCompile Include="GraphicsManager.cpp">
+      <Filter>Framework\Common</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Interface.hpp">
@@ -36,6 +39,9 @@
       <Filter>Framework\Interface</Filter>
     </ClInclude>
     <ClInclude Include="BaseApplication.hpp">
+      <Filter>Framework\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsManager.hpp">
       <Filter>Framework\Common</Filter>
     </ClInclude>
   </ItemGroup>
