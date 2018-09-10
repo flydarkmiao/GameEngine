@@ -1,6 +1,8 @@
 GameEngine/.vs
 GameEngine/Debug
 GameEngine/GameEngine/Debug
+GameEngine/Release
+GameEngine/GameEngine/Release
 GameEngine/x64
 GameEngine/GameEngine/x64
 GameEngine/GameEngine/GameEngine.vcxproj.user

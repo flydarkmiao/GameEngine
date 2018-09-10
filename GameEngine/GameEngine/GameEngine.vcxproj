@@ -118,6 +118,7 @@
     <ClCompile Include="BaseApplication.cpp" />
     <ClCompile Include="EmptyApplication.cpp" />
     <ClCompile Include="GraphicsManager.cpp" />
+    <ClCompile Include="helloengine_win.c" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

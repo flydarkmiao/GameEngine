@@ -13,6 +13,12 @@
     <Filter Include="Empty">
       <UniqueIdentifier>{929eaf33-1e77-45b5-8964-72d59e7c1710}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Platform">
+      <UniqueIdentifier>{d9867a4b-3609-4672-870f-54df521c5863}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platform\Windows">
+      <UniqueIdentifier>{3f097b54-34d7-4a1f-a7d4-e3dc66b7fa67}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BaseApplication.cpp">
@@ -26,6 +32,9 @@
     </ClCompile>
     <ClCompile Include="GraphicsManager.cpp">
       <Filter>Framework\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="helloengine_win.c">
+      <Filter>Platform\Windows</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
